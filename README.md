@@ -8,4 +8,5 @@ to list all repositories and the number of installed packages
 
 to remove unused PPAs  
 `$ ./checkPPAs.sh --delete`  
+
 <a href="https://askubuntu.com/questions/674976/check-for-and-remove-unused-ppas" target="_blank">Source</a>
